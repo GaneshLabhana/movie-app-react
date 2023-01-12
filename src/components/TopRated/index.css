@@ -1,0 +1,10 @@
+.slick-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.slick-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

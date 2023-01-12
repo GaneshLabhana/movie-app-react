@@ -1,12 +1,14 @@
 import {Component} from 'react'
 
 import Slider from 'react-slick'
+
 import {Link} from 'react-router-dom'
 
 import Cookies from 'js-cookie'
 import LoadingElement from '../LoaderElement'
 
 import MovieContext from '../../context/MovieContext'
+import './index.css'
 
 const apiConstants = {
   initial: 'INITIAL',
